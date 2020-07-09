@@ -1,16 +1,14 @@
-### Hi there 👋
+# Hello! 🎉
 
-<!--
-**FlyteWizard/FlyteWizard** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+My name is Dominique Charlebois 🤠. I am a 3rd year student at the University of Victoria (UVic) 🏫. And I am studying Computer Science and Education 🤖👩‍🏫. I enjoy frontend development, and teaching 🥳.
 
-Here are some ideas to get you started:
+## Links 🐱
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+* [Website](http://dominiquecharlebois.com/ "Website")
+* [Resume](http://dominiquecharlebois.com/resume "Resume")
+* [Photography Journey](https://tookapic.com/flytewizard "Photography Journey")
+* [LinkedIn](https://www.linkedin.com/in/dominiquecharlebois/ "LinkedIn")
+
+Please respect my online privacy 😊.
+
+<img src="./footer.png">
