@@ -11,4 +11,4 @@ My name is Dominique Charlebois 🤠. I am a 3rd year student at the University 
 
 Please respect my online privacy 😊.
 
-<img src="./footer.png">
+<img src="./gh-footer-image.png">
