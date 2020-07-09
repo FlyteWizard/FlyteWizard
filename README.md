@@ -11,4 +11,4 @@ My name is Dominique Charlebois 🤠. I am a 3rd year student at the University 
 
 Please respect my online privacy 😊.
 
-<img src="https://raw.githubusercontent.com/FlyteWizard/FlyteWizard/master/gh-footer-image.png" alt="Footer Banner with shapes as a signature.">
+<img src="./footer.png" alt="Footer Banner with shapes as a signature.">
