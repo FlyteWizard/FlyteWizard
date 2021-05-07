@@ -1,6 +1,6 @@
 # Hello! 🎉
 
-My name is Dominique Charlebois 🤠. I am a 3rd year student at the University of Victoria (UVic) 🏫. And I am studying Computer Science and Education 🤖👩‍🏫. I enjoy frontend development, and teaching 🥳.
+My name is Dominique Charlebois 🤠. I am a 4th year student at the University of Victoria (UVic) 🏫. And I am studying Computer Science and Education 🤖👩‍🏫. I enjoy frontend development, and teaching 🥳.
 
 ## Links 🐱
 
