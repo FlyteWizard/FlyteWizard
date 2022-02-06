@@ -1,18 +1,18 @@
 # About 🎉
 
-Hello! My name is Dominique Charlebois 🤠. I am a 4th year student at the University of Victoria (UVic) 🏫.
+Hello! My name is Dominique and I am a 4th year undergraduate student at the University of Victoria!
 
-I am majoring in Computer Science and minoring in Education 🤖👩‍🏫.
+I am majoring in Computer Science and minoring in Education.
 
-I enjoy frontend development, hiking in the woods, nature photography, and teaching 🥳.
+I enjoy frontend development, designing for accessibility, hiking in the beautiful woods, and nature photography.
 
 ## Links 🐱
 
 * [Website](http://dominiquecharlebois.com/ "Website")
 * [Resume](http://dominiquecharlebois.com/resume "Resume")
-* [Photography Journey](https://tookapic.com/flytewizard "Photography Journey")
-* [LinkedIn](https://www.linkedin.com/in/dominiquecharlebois/ "LinkedIn") (**Note:** You must be logged in to LinkedIn to view my LinkedIn Profile.)
+* [LinkedIn](https://www.linkedin.com/in/dominiquecharlebois/ "LinkedIn") (Private Account)
 
 Please respect my online privacy 😊.
 
-<img src="https://raw.githubusercontent.com/FlyteWizard/FlyteWizard/master/gh-footer-image.png" alt="">
+
+![](https://user-images.githubusercontent.com/10472448/152665490-43669c69-4af6-45aa-b1bf-39db40d2b9a9.JPG)
