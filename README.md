@@ -4,7 +4,7 @@ Hello! My name is Dominique and I am a 4th year undergraduate student at the Uni
 
 I am majoring in Computer Science and minoring in Education.
 
-I enjoy frontend development, designing for accessibility, hiking in the beautiful woods, and nature photography.
+I enjoy frontend development, designing for accessibility, hiking in the beautiful woods of the PNW, and nature photography.
 
 ## Links 🐱
 
